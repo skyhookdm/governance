@@ -1,6 +1,6 @@
-# Pangeo Code of Conduct
+# SkyhookDM Code of Conduct
 
-Pangeo values the safety and security of all of our members and, 
+SkyhookDM values the safety and security of all of our members and, 
 because of that, we will not tolerate any form of harassment or 
 discrimination. To this end in this page we:
 
@@ -11,18 +11,18 @@ discrimination. To this end in this page we:
 * Commit to a periodic review of the code of conduct
 
 
-## Statement of Intent of the Pangeo Community
+## Statement of Intent of the SkyhookDM Community
 
-Pangeo is an engaged and respectful community made up of people
+SkyhookDM is an engaged and respectful community made up of people
 from all over the world. Your involvement helps us to further our
 mission and to create an open platform that serves a broad range of
 communities, from research and education, to journalism, industry and
 beyond.
 
-Pangeo is dedicated to providing a respectful, harassment-free community for everyone. 
+SkyhookDM is dedicated to providing a respectful, harassment-free community for everyone. 
 We do not tolerate harassment or bullying of any community member in any form. 
 This applies equally to founders, developers, mentors and new community members, 
-in all spaces managed by Pangeo. This includes the mailing lists,
+in all spaces managed by SkyhookDM. This includes the mailing lists,
 our GitHub organizations, our chat rooms, in-person events, and any other
 forums created by the project team. In addition, violations of this code
 outside these spaces may affect a person's ability to participate within them.
@@ -55,7 +55,7 @@ outside these spaces may affect a person's ability to participate within them.
    
 * **3. Consider Impact vs. Intent**.    
    Disagreements, both social and
-   technical, happen all the time and Pangeo is no exception. 
+   technical, happen all the time and SkyhookDM is no exception. 
    People perceive their own behaviors very differently than others perceive them. 
    What motivates one person may cause stress for another. 
    A few steps worth remembering include the following:
@@ -82,10 +82,9 @@ Rather than considering this code an exhaustive list
 of things that you *can’t* do, take it in the spirit it is intended - a guide to
 make it easier to enrich all of us and the communities in which we participate. 
 By embracing the following principles, guidelines and actions to follow or
-avoid, you will help us make Pangeo a welcoming and productive community. Feel
+avoid, you will help us make SkyhookDM a welcoming and productive community. Feel
 free to contact the Code of Conduct Committee at
-[pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com) with any questions.
-
+[skyhookdm-conduct-group@ucsc.edu](mailto:skyhookdm-conduct-group@ucsc.edu) with any questions.
 
 ## Forms of harrassment
 
@@ -111,11 +110,11 @@ Forms of harrassment include, but is not limited to:
 
 If a member of the community at large engages in behavior which is harassing 
 or discriminatory in any way, once the incident is reported, 
-the [Code of Conduct Committee](mailto:pangeo-conduct@googlegroups.com) may take any action they deem 
+the [Code of Conduct Committee](mailto:skyhookdm-conduct-group@ucsc.edu) may take any action they deem 
 appropriate listed in the [*Enforcement Manual*](enforcement.md). 
 These actions include, but are not limited to, issuing a warning, 
 requiring an apology, or a permanent or temporary ban from some 
-or all Pangeo spaces (mailing lists, gitter.im, etc.). 
+or all SkyhookDM spaces (mailing lists, gitter.im, etc.). 
 
 
 ## How to Report Harassment and Discrimination
@@ -125,8 +124,8 @@ a timely manner. Code of conduct violations reduce the value of the community
 for everyone and we take them seriously.
 
 You can file a report by emailing
-[pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com) or by filing out 
-[this form](https://forms.gle/jDmUokAtzwxwkKQq7). The online form gives you the option to 
+[skyhookdm-conduct-group@ucsc.edu](mailto:skyhookdm-conduct-group@ucsc.edu) or by filing out 
+[this form](https://forms.gle/qaszuCWz2pYXjvad9). The online form gives you the option to 
 keep your report anonymous or request that we follow up with you directly. While we cannot
 follow up on an anonymous report, we will take appropriate action.
 
@@ -138,17 +137,20 @@ Manual*](enforcement.md).
 
 ## Periodic Review
 
-Pangeo strives to create a positive and inclusive environment. 
-As such, the Pangeo Steering Council commits to an annual review 
+SkyhookDM strives to create a positive and inclusive environment. 
+As such, the SkyhookDM Steering Council commits to an annual review 
 of the Code of Conduct to ensure that it continues to align with 
 this goal and address the needs of our community.
-Pangeo welcomes feedback from its members. 
-Feedback can be submitted to: [pangeo-conduct@googlegroups.com](mailto:pangeo-conduct@googlegroups.com) and to this github repository.
+SkyhookDM welcomes feedback from its members. 
+Feedback can be submitted to: skyhookdm-conduct-group@ucsc.edu](mailto:skyhookdm-conduct-group@ucsc.edu) and to this github repository.
 
 
-### References
+### Acknowledgements
 
-This Code of Conduct has been adapted from:
+This Code of Conduct has been adapted from the [*Pangeo*](https://github.com/skyhookdm/governance/blob/master/conduct/code_of_conduct.md) Project, licensed under a [*Creative Commons
+Attribution 4.0 International (CC BY 4.0)*](http://creativecommons.org/licenses/by/4.0/) license.
+
+The Pangeo Code of Conduct has been adapted from:
    * the [*Jupyter*](http://jupyter.org/conduct/) Project, licensed under a [*Creative Commons
      Attribution*](http://creativecommons.org/licenses/by/3.0/) license.
    * the [*WWCode*](https://www.womenwhocode.com/codeofconduct) Network.
