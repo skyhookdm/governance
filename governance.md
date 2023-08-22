@@ -4,23 +4,23 @@ The official version of this document, along with a list of individuals and
 institutions in the roles defined in the governance section below, is contained
 in The Project Governance Repository at:
 
-https://github.com/pangeo-data/governance
+https://github.com/skyhookdm/governance
 
 ## The Project
 
-The Pangeo Project (The Project) is an open source software project. The goal 
-of The Project is to develop open source software and related technology for the 
-analysis of large scientific datasets. The Project endeavors to extend the 
-broader scientific software ecosystem.  The Software developed by The Project is
-released under the BSD (or similar) open source license, developed openly and 
-hosted in public GitHub repositories under the Pangeo-data GitHub organization.
+The Skyhook Data Management Project (The Project) is an open source software project. The goal 
+of The Project is to develop open source software and related technology for 
+the computational I/O stack. The Project endeavors to extend the 
+broader software ecosystem of storage systems, networking, and data science.  
+The Software developed by The Project is
+released under a variety of open source software licenses that are both approved by the Open Source Initiative (OSI) 
+and recognized as free by the Free Software Foundation (FSF), is developed openly, and 
+hosted in public GitHub repositories under the skyhookdm GitHub organization.
 Examples of Project Software include the tools and configurations related to the
 deployment of computational infrastructure. The Services run by The Project
 consist of public websites and web-services that are hosted under the pangeo.io
 or pangeo-data.org domains. Examples of Project Services include the Pangeo
-website (https://pangeo-data.org and https://pangeo.io), Pangeo-JupyterHub
-deployments (https://pangeo.pydata.org and https://pangeo.informaticslab.co.uk),
-and the Pangeo-Binder (https://binder.pangeo.io).
+website (https://skyhookdm.github.io) and ...
 
 The Project is developed by a team of distributed developers, called
 Contributors. Contributors are individuals who have contributed to code, code
@@ -35,10 +35,10 @@ participation is openness and transparency.
 
 Here is a list of the current Contributors to the main Pangeo repository:
 
-https://github.com/pangeo-data/pangeo/graphs/contributors
+https://github.com/skyhookdm/skyhookdm.github.io/graphs/contributors
 
 There are also many other Contributors listed in the logs of other repositories
-of the Pangeo Project.
+of the SkyhookDM Project.
 
 The collection of all Contributors to The Project and stakeholders in The
 Project, including Users and Funders, is called The Community.  Contributors
@@ -84,7 +84,7 @@ In particular, the Council may:
 Outcomes and decisions should be clearly communicated to the Community. This can
 take three different forms:
 
-* New challenges for Pangeo will be detailed as a GitHub issue for the Community
+* New challenges for SkyhookDM will be detailed as a GitHub issue for the Community
   to discuss.
 * Resolved technical deadlocks will result in an explanation on the relevant
   issue and/or closure of the relevant pull request.
@@ -119,7 +119,7 @@ Council:
    Council.
 2. If a Council Member becomes inactive in The Project for a period of one year,
    they will be considered for removal from the Council. Before removal, an
-   inactive Member will be approached by the a Council Member to see if they plan
+   inactive Member will be approached by a Council Member to see if they plan
    on returning to active participation. If not they will be removed immediately
    upon a Council vote. If they plan on returning to active participation soon,
    they will be given a grace period of one year. If they don’t return to active
@@ -208,7 +208,7 @@ umbrella.
 
 Changes to the governance documents are submitted via a GitHub pull request to
 The Project's governance documents GitHub repository at
-https://github.com/pangeo-data/governance. The pull request is then refined in
+https://github.com/skyhookdm/governance. The pull request is then refined in
 response to public comment and review, with the goal being consensus in the
 community. The period for open comment will last in proportional to the
 complexity of the changes; major changes will be open for comment for no less
