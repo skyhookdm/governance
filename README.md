@@ -1,2 +1,2 @@
 # governance
-Governance Documents for Pangeo
+Governance Documents for SkyhookDM
